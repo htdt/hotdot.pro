@@ -1,0 +1,1 @@
+window.onload=function(){var n=document.getElementById("lady-video"),o=document.getElementById("noise");n.play(),o.play(),$("#lady .close").on("click",function(){$("#lady").css("display","none"),$(".noise").css("display","block")})};
